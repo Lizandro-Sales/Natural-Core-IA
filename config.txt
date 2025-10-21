@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Instalador Natural Core IA v4.7.2"
+BeginPrompt="Deseja instalar o Natural Core IA agora?"
+RunProgram="hud\hud_interface_v4_7_auto.bat"
+;!@InstallEnd@!
