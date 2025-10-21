@@ -1,7 +1,7 @@
 import os
 import subprocess
 import tkinter as tk
-from tkinter import messagebox, scrolledtext, simpledialog
+from tkinter import messagebox, scrolledtext, simpledialog  # <-- Importação correta
 from cryptography.fernet import Fernet
 from datetime import datetime
 import threading
