@@ -1,0 +1,6 @@
+[18:19:08] Iniciando sincronização com o GitHub...
+[18:19:08] ❌ Erro durante o push:
+'"E:\projetos\natural core\sincronizador_github.bat"' nÆo ‚ reconhecido como um comando interno
+ou externo, um programa oper vel ou um arquivo em lotes.
+
+[18:21:45] Iniciando sincronização com o GitHub...
