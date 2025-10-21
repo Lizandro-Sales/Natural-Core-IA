@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 title Natural Core IA - Sincronizador GitHub
 color 0A
 echo ============================================
